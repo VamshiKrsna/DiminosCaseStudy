@@ -1,0 +1,8 @@
+* 20-Mar-2023 was the day with most orders : 597
+* 14-Mar-2023 was the day with less orders : 492
+* Average No. of pizzas sold in a day : 555
+* Min. Orders on Tuesdays
+* Max. Orders on Mondays
+95th Percentile of Delivery Time is 27 Minutes
+Loss Percentage = 557/15000 * 100 = 3.71
+In March, total of 557 pizzas delivered on or after 31 minutes
